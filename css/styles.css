@@ -1,10 +1,3 @@
-body{
-
-
-
-}
-
-
 .middle-container{
   background-color: white;
   height: 600px;
@@ -12,11 +5,13 @@ body{
   top: 20px;
   bottom: 20px;
   position: relative;
-  margin-left: 425px;
+  margin-left: auto;
+  margin-right: auto;
   border-top-left-radius: 20px;
   border-top-right-radius: 20px;
   border-bottom-left-radius: 20px;
   border-bottom-right-radius: 20px;
+  margin-top: 150px;
 
 }
 .third-container{
@@ -24,7 +19,8 @@ body{
   height: 200px;
   width: 450px;
   position: relative;
-  margin: 0 425px 0 425px;
+  margin-left: auto;
+  margin-right: auto;
   bottom: 580px;
   border-top-left-radius: 20px;
   border-top-right-radius: 20px;
@@ -35,7 +31,8 @@ body{
     width: 400px;
     position: relative;
     border-radius: 20px 20px 20px 20px;
-    margin: 0 450px 0 450px;
+    margin-left: auto;
+    margin-right: auto;
     bottom: 420px;
   }
   .btn{
